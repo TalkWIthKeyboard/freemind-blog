@@ -1,0 +1,32 @@
+slogan: "「@JIKE」 Data engineer/Code player"
+
+show_heart: true
+
+show_slogan: true
+
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    # icon: "fa fa-archive"
+  - title: RSS
+    url: atom.xml
+    intro: "Subscribe me."
+    # icon: "fa fa-user"
+
+links:
+  - title: TalkWIthKeyboard
+    url: https://github.com/TalkWIthKeyboard
+    intro: "TalkWIthKeyboard's Github repository."
+    icon: "fa fa-github"
+
+widgets:
+- search
+- category
+- tagcloud
+- recent_posts
+- links
+
+rss: 
+fancybox: true
+duoshuo_shortname:
